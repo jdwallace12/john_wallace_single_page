@@ -37,7 +37,7 @@ p {
 }
 
 .profile-pic {
-  margin-top: 46%;
+  margin-top: 35%;
 }
 
 .profile-pic-inner {
@@ -83,7 +83,7 @@ p {
 .skills-title {
   text-align: center;
 
-  margin: -12% 0% 10% 0%;
+  margin: -12% 0% 8% 0%;
   h1 {
     color: #ffffff;
   }
@@ -93,14 +93,13 @@ p {
   :hover {
     :hover {
       background: #2980b9;
-      color:#ecf0f1;
     }
   }
 }
 
 .skills-inner {
   color: #ffffff;
-  padding: 20px 0px 20px 0px;
+  padding: 20px;
 }
 
 //media queries
@@ -111,7 +110,7 @@ p {
   }
 }
 
-@media (max-width: 1380px) {
+@media (max-width: 1260px) {
   .arrow-down {
     display: none;
   }
