@@ -156,16 +156,20 @@
     <div class="container">
       <div class="arrow-down"></div>
       <div class="col-md-6">
-       <h5>Contact Me</h5>
-           <ul class="list-inline">
-             <li>Email: jdwallace12@gmail.com</li>
-             <li>Phone: (406) 600-9078</li>
-           </ul>
+        <h5>Contact Me</h5>
+        <ul class="list-inline">
+          <li><%= mail_to 'mailto:jdwallace12@gmail.com', 'Email: jdwallace12@gmail.com' %></li>
+          <li>Phone: (406) 600-9078</li>
+        </ul>
       </div>
       <div class="col-md-6">
         <div class="social-icons pull-right">
-        <i class="fa fa-github fa-5x"></i>
-        <i class="fa fa-linkedin fa-5x" style="margin-left: 30px;"></i>
+          <a href="https://github.com/jdwallace12" target="_blank">
+            <i class="fa fa-github-alt fa-5x"></i>
+          </a>
+          <a href="https://www.linkedin.com/in/johndavidwallace" target="_blank">
+            <i class="fa fa-linkedin fa-5x" style="margin-left: 40px;"></i>
+          </a>
         </div>
       </div>
     </div>

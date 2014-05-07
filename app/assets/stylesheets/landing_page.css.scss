@@ -150,17 +150,24 @@ p {
   top: 65px;
   padding: 2% 0%;
   h5 {
-    margin-top: -10px;
+    margin-top: -2%;
     color: #ffffff;
   }
   li {
     color: #ecf0f1;
+    a{
+      text-decoration: none;
+      color: #ecf0f1;
+    }
   }
 
   .social-icons {
-    margin-top: -40px;
-    color:#bdc3c7;
-    :hover {
+    margin-top: -5%;
+    a {
+      color: #bdc3c7;
+    }
+    a:hover {
+      text-decoration: none;
       color: #ecf0f1;
     }
   }
