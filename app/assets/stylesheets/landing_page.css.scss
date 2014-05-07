@@ -5,6 +5,10 @@
 
 
 ///////////////////////////////////////////////////////global styles
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
 
 //bootstrap is overriding this style reason for important
 h1, h2, h3, h4, h5, h6 {
@@ -15,6 +19,7 @@ h1, h2, h3, h4, h5, h6 {
 p {
   font-family: 'Lato', sans-serif;
 }
+
 
 
 ////////////////////////////////////////////////////////hero styles
@@ -107,7 +112,7 @@ p {
 .skills-inner-wrap {
   :hover {
     :hover {
-      background: rgba(41, 128, 185, 0.36);
+      background: #2980b9;
     }
   }
 }
@@ -121,8 +126,13 @@ p {
 ////////////////////////////////////////////////////////why I am a good fit
 
 .good-fit {
-  //  background: #34495e;
   padding: 60px;
+}
+
+.fresh-logo {
+  img {
+    width:100%;
+  }
 }
 
 ////////////////////////////////////////////////////////media queries
