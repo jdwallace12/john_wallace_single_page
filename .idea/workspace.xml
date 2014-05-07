@@ -23,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/landing_page/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3525641" vertical-offset="0" max-vertical-offset="2535">
-              <caret line="22" column="84" selection-start-line="22" selection-start-column="84" selection-end-line="22" selection-end-column="84" />
+            <state vertical-scroll-proportion="-64.625" vertical-offset="864" max-vertical-offset="2625">
+              <caret line="161" column="10" selection-start-line="161" selection-start-column="10" selection-end-line="161" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -43,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="landing_page.css.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="landing_page.css.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/landing_page.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-21.5" vertical-offset="1479" max-vertical-offset="2475">
-              <caret line="133" column="20" selection-start-line="133" selection-start-column="20" selection-end-line="133" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.4070513" vertical-offset="1614" max-vertical-offset="2580">
+              <caret line="133" column="21" selection-start-line="133" selection-start-column="21" selection-end-line="133" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -90,8 +90,8 @@
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/landing_page.css.scss" />
         <option value="$PROJECT_DIR$/app/views/landing_page/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/landing_page.css.scss" />
       </list>
     </option>
   </component>
@@ -685,18 +685,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/landing_page.css.scss">
+    <entry file="file://$PROJECT_DIR$/app/views/landing_page/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-21.5" vertical-offset="1479" max-vertical-offset="2475">
-          <caret line="133" column="20" selection-start-line="133" selection-start-column="20" selection-end-line="133" selection-end-column="20" />
+        <state vertical-scroll-proportion="-64.625" vertical-offset="864" max-vertical-offset="2625">
+          <caret line="161" column="10" selection-start-line="161" selection-start-column="10" selection-end-line="161" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/landing_page/index.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/landing_page.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3525641" vertical-offset="0" max-vertical-offset="2535">
-          <caret line="22" column="84" selection-start-line="22" selection-start-column="84" selection-end-line="22" selection-end-column="84" />
+        <state vertical-scroll-proportion="0.4070513" vertical-offset="1614" max-vertical-offset="2580">
+          <caret line="133" column="21" selection-start-line="133" selection-start-column="21" selection-end-line="133" selection-end-column="21" />
           <folding />
         </state>
       </provider>

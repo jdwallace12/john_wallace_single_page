@@ -2,8 +2,6 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
-
-
 ///////////////////////////////////////////////////////global styles
 
 //skrollr messing with overflow need this to block overflow
@@ -21,8 +19,6 @@ h1, h2, h3, h4, h5, h6 {
 p {
   font-family: 'Lato', sans-serif;
 }
-
-
 
 ////////////////////////////////////////////////////////hero styles
 
@@ -128,17 +124,28 @@ p {
 ////////////////////////////////////////////////////////why I am a good fit
 
 .good-fit {
-  padding: 60px;
-    p{
-      font-size: 16px;
-      color: #9E9E9E
-    }
+  margin: 7% 0px;
+  h3 {
+    color: #696969;
+  }
+  p {
+    font-size: 18px;
+    color: #6B6B6B;
+    line-height: 1.5;
+  }
 }
 
 .fresh-logo {
   img {
-    width:100%;
+    width: 100%;
   }
+}
+
+////////////////////////////////////////////////////////footer
+
+.footer {
+  background-image: url(../tweed.png);
+  padding: 7% 0%;
 }
 
 ////////////////////////////////////////////////////////media queries
