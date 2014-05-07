@@ -27,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/app/views/landing_page/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.11217949" vertical-offset="0" max-vertical-offset="2895">
-              <caret line="7" column="134" selection-start-line="7" selection-start-column="134" selection-end-line="7" selection-end-column="134" />
+              <caret line="7" column="154" selection-start-line="7" selection-start-column="154" selection-end-line="7" selection-end-column="154" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#i#0;n#a#1;n#div#0;n#div#2;n#div#0;n#div#0;n#div#4;n#!!top" expanded="true" />
@@ -692,7 +692,7 @@
     <entry file="file://$PROJECT_DIR$/app/views/landing_page/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.11217949" vertical-offset="0" max-vertical-offset="2895">
-          <caret line="7" column="134" selection-start-line="7" selection-start-column="134" selection-end-line="7" selection-end-column="134" />
+          <caret line="7" column="154" selection-start-line="7" selection-start-column="154" selection-end-line="7" selection-end-column="154" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#a#1;n#div#0;n#div#2;n#div#0;n#div#0;n#div#4;n#!!top" expanded="true" />
