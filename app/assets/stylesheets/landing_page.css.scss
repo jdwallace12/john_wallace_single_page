@@ -2,9 +2,11 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
-//bootstrap is overriding this style reason for important
+
 
 ///////////////////////////////////////////////////////global styles
+
+//bootstrap is overriding this style reason for important
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Oswald', sans-serif !important;
 
@@ -117,12 +119,14 @@ p {
 }
 
 ////////////////////////////////////////////////////////why I am a good fit
+
 .good-fit {
   //  background: #34495e;
   padding: 60px;
 }
 
 ////////////////////////////////////////////////////////media queries
+
 @media (max-width: 1650px) {
   .arrow-down {
     position: relative;
