@@ -189,3 +189,30 @@ Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-06 20:54:18 
 
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 20:54:18 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:57:48 -0400
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 5ms (Views: 4.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing_page.css?body=1" for 127.0.0.1 at 2014-05-06 20:57:48 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-06 20:57:48 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-06 20:57:48 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-06 20:57:48 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 20:57:48 -0400
+
+
+Started GET "/assets/landing_page.js?body=1" for 127.0.0.1 at 2014-05-06 20:57:48 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 20:57:48 -0400
