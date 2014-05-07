@@ -38,27 +38,26 @@ p {
     position: absolute;
     bottom: -12%;
     left: 45%;
-    width:10%;
+    width: 10%;
   }
 
 }
+
 .profile-pic-area {
   margin-top: 35%;
 }
 
 .profile-pic-inner {
-  margin-left: 8%;
+  margin-left: 37%;
+  margin-top: -3%;
 
   h2 {
-    display: inline;
     color: #fff;
-    padding-left: 20px;
     font-size: 60px;
   }
   h4 {
     color: #fff;
-    padding-left: 12%;
-    margin-top: -40px;
+    margin-top: -7px;
     font-size: 25px;
   }
 }
@@ -71,7 +70,7 @@ p {
     text-align: center;
   }
   p {
-    margin: 3% 0%;
+    margin: 5% 0%;
   }
 }
 
@@ -109,8 +108,8 @@ p {
 }
 
 .footer {
-//  background: #34495e;
-  padding:60px;
+  //  background: #34495e;
+  padding: 60px;
 }
 
 //media queries
