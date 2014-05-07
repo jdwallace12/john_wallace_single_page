@@ -23,10 +23,6 @@ p {
   top: -200px
 }
 
-.info-area {
-  padding: 10px 0px;
-}
-
 .cloud {
   opacity: .6;
 }
@@ -37,13 +33,22 @@ p {
 }
 
 .profile-pic {
+  img {
+    border: 5px solid rgba(255, 255, 255, 0.29);
+    position: absolute;
+    bottom: -12%;
+    left: 45%;
+    width:10%;
+  }
+
+}
+.profile-pic-area {
   margin-top: 35%;
 }
 
 .profile-pic-inner {
-  img {
-    border: 5px solid rgba(255, 255, 255, 0.29);
-  }
+  margin-left: 8%;
+
   h2 {
     display: inline;
     color: #fff;
@@ -59,14 +64,14 @@ p {
 }
 
 .info-area {
-  padding: 7% 0%;
+  padding: 9% 0%;
 
   h1 {
     color: #696969;
     text-align: center;
   }
   p {
-    margin: 5% 0%;
+    margin: 3% 0%;
   }
 }
 
@@ -92,7 +97,7 @@ p {
 .skills-inner-wrap {
   :hover {
     :hover {
-      background: #2980b9;
+      background: rgba(41, 128, 185, 0.36);
     }
   }
 }
