@@ -46,11 +46,17 @@ p {
 }
 
 .info-area {
-  padding-top: 7%;
+  padding: 7% 0%;
+
   h1 {
     color: #696969;
   }
   p {
-    margin-top: 3%;
+    margin: 5% 0%;
   }
+}
+
+.skills-area {
+  background: #3498db;
+  padding: 10% 0%;
 }
