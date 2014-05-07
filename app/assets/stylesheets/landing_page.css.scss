@@ -5,6 +5,8 @@
 
 
 ///////////////////////////////////////////////////////global styles
+
+//skrollr messing with overflow need this to block overflow
 html, body {
   max-width: 100%;
   overflow-x: hidden;
