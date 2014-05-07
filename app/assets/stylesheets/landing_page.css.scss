@@ -144,9 +144,13 @@ p {
 ////////////////////////////////////////////////////////footer
 
 .footer {
-  background-image: url(../tweed.png);
+  background: #ecf0f1;
+//  background-image: url(../tweed.png);
   padding: 2% 0%;
   margin-bottom: -25px;
+  h2 {
+    color: #ffffff;
+  }
 }
 
 .footer .arrow-down {
