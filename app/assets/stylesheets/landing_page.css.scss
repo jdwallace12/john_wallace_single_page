@@ -10,8 +10,15 @@ h1, h2, h3, h4, h5, h6 {
 p {
   font-family: 'Lato', sans-serif;
 }
+.info-area {
+  padding: 10px 0px;
+}
+.cloud{
+  opacity: .6;
+}
 
 .hero {
   background-image: url(../bowman_lake.jpg);
-  height: 900px;
+  height: 600px;
 }
+
