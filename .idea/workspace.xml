@@ -27,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/app/views/landing_page/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.3525641" vertical-offset="0" max-vertical-offset="1170">
-              <caret line="22" column="78" selection-start-line="22" selection-start-column="78" selection-end-line="22" selection-end-column="78" />
+              <caret line="22" column="80" selection-start-line="22" selection-start-column="80" selection-end-line="22" selection-end-column="80" />
               <folding />
             </state>
           </provider>
@@ -647,7 +647,7 @@
     <entry file="file://$PROJECT_DIR$/app/views/landing_page/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3525641" vertical-offset="0" max-vertical-offset="1170">
-          <caret line="22" column="78" selection-start-line="22" selection-start-column="78" selection-end-line="22" selection-end-column="78" />
+          <caret line="22" column="80" selection-start-line="22" selection-start-column="80" selection-end-line="22" selection-end-column="80" />
           <folding />
         </state>
       </provider>
