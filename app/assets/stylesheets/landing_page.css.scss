@@ -5,6 +5,7 @@
 //bootstrap is overriding this style reason for important
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Oswald', sans-serif !important;
+
 }
 
 p {
@@ -41,5 +42,15 @@ p {
     color: #fff;
     padding-left: 12%;
     margin-top: -40px;
+  }
+}
+
+.info-area {
+  padding-top: 7%;
+  h1 {
+    color: #696969;
+  }
+  p {
+    margin-top: 3%;
   }
 }
