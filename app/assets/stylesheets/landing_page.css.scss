@@ -2,7 +2,7 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
-///////////////////////////////////////////////////////global styles
+///////////////////////////////////////global styles
 
 //skrollr messing with overflow need this to block overflow
 html, body {
@@ -20,7 +20,7 @@ p {
   font-family: 'Lato', sans-serif;
 }
 
-////////////////////////////////////////////////////////hero styles
+///////////////////////////////////////hero styles
 
 .cloud {
   opacity: .6;
@@ -61,7 +61,7 @@ p {
   }
 }
 
-///////////////////////////////////////////////////////my objective
+///////////////////////////////////////my objective
 
 .my-objective {
   padding: 9% 0%;
@@ -86,7 +86,7 @@ p {
   top: -200px
 }
 
-/////////////////////////////////////////////////////////what I have to offer
+///////////////////////////////////////what I have to offer
 
 .skills-area-wrap {
   background: #3498db;
@@ -120,18 +120,19 @@ p {
   padding: 20px;
   margin-bottom: 30%;
 }
-
-////////////////////////////////////////////////////////why I am a good fit
+///////////////////////////////////////why I am a good fit
 
 .good-fit {
   margin: 7% 0px;
   h3 {
     color: #696969;
+    font-size: 32px;
   }
   p {
     font-size: 18px;
     color: #6B6B6B;
     line-height: 1.5;
+    padding-top: 15px;
   }
 }
 
@@ -141,15 +142,27 @@ p {
   }
 }
 
-////////////////////////////////////////////////////////footer
+///////////////////////////////////////footer
 
 .footer {
-  background: #ecf0f1;
-//  background-image: url(../tweed.png);
+  background: #2c3e50;
+  position: relative;
+  top: 65px;
   padding: 2% 0%;
-  margin-bottom: -25px;
-  h2 {
+  h5 {
+    margin-top: -10px;
     color: #ffffff;
+  }
+  li {
+    color: #ecf0f1;
+  }
+
+  .social-icons {
+    margin-top: -40px;
+    color:#bdc3c7;
+    :hover {
+      color: #ecf0f1;
+    }
   }
 }
 
@@ -164,7 +177,7 @@ p {
   top: -50px
 }
 
-////////////////////////////////////////////////////////media queries
+///////////////////////////////////////media queries
 
 @media (max-width: 1650px) {
   .arrow-down {
