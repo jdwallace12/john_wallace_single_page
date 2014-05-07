@@ -10,10 +10,12 @@ h1, h2, h3, h4, h5, h6 {
 p {
   font-family: 'Lato', sans-serif;
 }
+
 .info-area {
   padding: 10px 0px;
 }
-.cloud{
+
+.cloud {
   opacity: .6;
 }
 
@@ -22,3 +24,17 @@ p {
   height: 600px;
 }
 
+.profile-pic {
+  margin-top: 30%;
+}
+
+.profile-pic-inner {
+  img {
+    border: 5px solid rgba(255, 255, 255, 0.29);
+  }
+  h2 {
+    display:inline;
+    color:#fff;
+    padding-left: 20px;
+  }
+}
