@@ -79,6 +79,7 @@ p {
     max-width: 650px;
     margin: auto;
     padding-top: 2%;
+    text-indent: 1.5em;
   }
 }
 
@@ -196,12 +197,12 @@ p {
 
 ///////////////////////////////////////media queries
 
-@media (max-width: 1650px) {
+@media (max-width: 1600px) {
   .profile-pic img {
     bottom: -12%;
   }
   .profile-pic-inner {
-    margin-top: -33%%;
+    margin-top: -35%;
   }
   .arrow-down {
     position: relative;
@@ -209,6 +210,9 @@ p {
   }
   .hero {
     height: 500px;
+  }
+  .cloud {
+    padding-bottom: 7px;
   }
 }
 
