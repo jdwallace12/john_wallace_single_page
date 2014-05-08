@@ -189,14 +189,17 @@ p {
 
 @media (max-width: 1650px) {
   .profile-pic img {
-    bottom: -8%;
+    bottom: -12%;
   }
   .profile-pic-inner {
-    margin-top: -12%;
+    margin-top: -33%%;
   }
   .arrow-down {
     position: relative;
     top: -165px;
+  }
+  .hero {
+    height: 500px;
   }
 }
 
