@@ -142,7 +142,8 @@ p {
     color: #6B6B6B;
     line-height: 1.5;
     padding-top: 15px;
-    max-width: 70%;
+    max-width: 75%;
+    text-indent: 1.5em;
   }
 }
 
@@ -201,16 +202,20 @@ p {
   .profile-pic img {
     bottom: -12%;
   }
+
   .profile-pic-inner {
     margin-top: -35%;
   }
+
   .arrow-down {
     position: relative;
     top: -165px;
   }
+
   .hero {
     height: 500px;
   }
+
   .cloud {
     padding-bottom: 7px;
   }
@@ -220,17 +225,24 @@ p {
   .arrow-down {
     display: none;
   }
+
   .skills-title {
     margin-top: -5%;
   }
 }
 
 @media (max-width: 981px) {
+
   .fresh-logo {
     img {
       display: none;
     }
   }
+
+  .good-fit p {
+    max-width: 100%;
+  }
+
   .profile-pic-inner {
     margin-left: 25%;
   }
@@ -243,6 +255,17 @@ p {
     text-align: center;
     h2 {
       font-size: 36px;
+    }
+    h4 {
+      font-size: 18px;
+    }
+  }
+
+  .profile-pic {
+    img {
+      bottom: -10%;
+      width: 30%;
+      left: 37%;
     }
   }
 }
