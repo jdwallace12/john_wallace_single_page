@@ -74,6 +74,11 @@ p {
   }
   p {
     margin: 5% 0%;
+    font-size: 24px;
+    color: #696969;
+    max-width: 650px;
+    margin: auto;
+    padding-top: 2%;
   }
 }
 
@@ -136,12 +141,14 @@ p {
     color: #6B6B6B;
     line-height: 1.5;
     padding-top: 15px;
+    max-width: 70%;
   }
 }
 
 .fresh-logo {
   img {
     width: 100%;
+    margin-top: 25px;
   }
 }
 
