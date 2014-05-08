@@ -133,7 +133,8 @@ p {
 //for some reason can't select p in parent div, so add a class
 p.skill-text {
   font-size: 18px;
-  line-height: 1.5;
+  line-height: 1.5em;
+  word-spacing: .3em;
 }
 
 
