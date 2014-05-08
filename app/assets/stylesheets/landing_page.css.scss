@@ -20,6 +20,7 @@ p {
   font-family: 'Lato', sans-serif;
 }
 
+
 ///////////////////////////////////////hero styles
 
 .cloud {
@@ -128,6 +129,13 @@ p {
   padding: 20px;
   margin-bottom: 30%;
 }
+
+//for some reason can't select p in parent div, so add a class
+p.skill-text {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
 
 ///////////////////////////////////////why I am a good fit
 
