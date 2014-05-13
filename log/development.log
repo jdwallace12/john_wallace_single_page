@@ -41718,3 +41718,80 @@ Started GET "/assets/landing_page.js?body=1" for 127.0.0.1 at 2014-05-13 09:51:4
 
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-13 09:51:43 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 09:57:26 -0400
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (0.2ms)
+Completed 500 Internal Server Error in 25ms
+
+ActionView::Template::Error (Invalid CSS after "      color": expected ";", was ": #bdc3c7;"
+  (in /Users/johnwallace/Desktop/john_wallace_single_page/app/assets/stylesheets/landing_page.css.scss:195)):
+    2: <html>
+    3: <head>
+    4:   <title>John Wallace</title>
+    5:   <%= stylesheet_link_tag "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8:   <!-- Latest compiled and minified CSS -->
+  app/assets/stylesheets/landing_page.css.scss:195
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__4465231533832304591_2171670200'
+
+
+  Rendered /usr/local/rvm/gems/ruby-1.9.3-p392/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+  Rendered /usr/local/rvm/gems/ruby-1.9.3-p392/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.9ms)
+  Rendered /usr/local/rvm/gems/ruby-1.9.3-p392/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (12.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 09:57:35 -0400
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 84ms (Views: 83.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-13 09:57:35 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-13 09:57:35 -0400
+
+
+Started GET "/assets/landing_page.css?body=1" for 127.0.0.1 at 2014-05-13 09:57:35 -0400
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-05-13 09:57:35 -0400
+
+
+Started GET "/assets/normalize-rails.css?body=1" for 127.0.0.1 at 2014-05-13 09:57:35 -0400
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-05-13 09:57:35 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-13 09:57:35 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-13 09:57:35 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-13 09:57:35 -0400
+
+
+Started GET "/assets/skrollr.ie.js?body=1" for 127.0.0.1 at 2014-05-13 09:57:35 -0400
+
+
+Started GET "/assets/skrollr.menu.js?body=1" for 127.0.0.1 at 2014-05-13 09:57:35 -0400
+
+
+Started GET "/assets/wow.js?body=1" for 127.0.0.1 at 2014-05-13 09:57:35 -0400
+
+
+Started GET "/assets/landing_page.js?body=1" for 127.0.0.1 at 2014-05-13 09:57:35 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-13 09:57:35 -0400
+
+
+Started GET "/assets/fontawesome-webfont.woff" for 127.0.0.1 at 2014-05-13 09:57:35 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-05-13 09:57:35 -0400

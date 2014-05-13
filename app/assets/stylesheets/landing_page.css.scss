@@ -191,6 +191,7 @@ p.skill-text {
   .social-icons {
     margin-top: -5%;
     a {
+      transition: color 0.5s ease;
       color: #bdc3c7;
     }
     a:hover {
