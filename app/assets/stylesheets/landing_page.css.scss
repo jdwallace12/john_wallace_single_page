@@ -252,6 +252,9 @@ p.skill-text {
 }
 
 @media (max-width: 981px) {
+  .plus-sign  {
+    display: none;
+  }
 
   .fresh-logo {
     img {
