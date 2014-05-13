@@ -1,5 +1,3 @@
-
-
 ///////////////////////////////////////global styles
 
 //skrollr messing with overflow need this to block overflow
@@ -65,7 +63,8 @@ p {
 ///////////////////////////////////////my objective
 
 .my-objective {
-  padding: 9% 0%;
+  padding-top: 9%;
+  padding-bottom: 16%;
 
   h1 {
     color: #696969;
@@ -88,7 +87,7 @@ p {
   height: 0;
   border-left: 50px solid transparent;
   border-right: 50px solid transparent;
-  border-top: 50px solid #ffffff;
+  border-top: 50px solid #fbfaf5;
   position: relative;
   margin: 0 auto;
   top: -200px
@@ -138,6 +137,11 @@ p.skill-text {
 
 ///////////////////////////////////////why I am a good fit
 
+.offwhite {
+  background: #fbfaf5;
+  margin-bottom: -100px;
+}
+
 .good-fit {
   margin: 7% 0px;
   h3 {
@@ -184,13 +188,13 @@ p.skill-text {
   padding: 2% 0%;
   h5 {
     margin-top: -2%;
-    color: #ffffff;
+    color: #fbfaf5;
   }
   ul {
     list-style: none;
   }
   li {
-    color: #ecf0f1;
+    color: #fbfaf5;
     a {
       text-decoration: none;
       color: #ecf0f1;
@@ -215,7 +219,7 @@ p.skill-text {
   height: 0;
   border-left: 50px solid transparent;
   border-right: 50px solid transparent;
-  border-top: 50px solid #ffffff;
+  border-top: 50px solid #fbfaf5;
   position: relative;
   margin: 0 auto;
   top: -60px
@@ -257,7 +261,7 @@ p.skill-text {
 }
 
 @media (max-width: 981px) {
-  .plus-sign  {
+  .plus-sign {
     display: none;
   }
 
