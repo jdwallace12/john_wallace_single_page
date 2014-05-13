@@ -42599,3 +42599,381 @@ Started GET "/assets/fontawesome-webfont.woff" for 127.0.0.1 at 2014-05-13 10:14
 
 
 Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-05-13 10:14:43 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 10:21:16 -0400
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 8ms (Views: 6.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-13 10:21:16 -0400
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-05-13 10:21:16 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-13 10:21:16 -0400
+
+
+Started GET "/assets/normalize-rails.css?body=1" for 127.0.0.1 at 2014-05-13 10:21:16 -0400
+
+
+Started GET "/assets/landing_page.css?body=1" for 127.0.0.1 at 2014-05-13 10:21:16 -0400
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-05-13 10:21:16 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-13 10:21:16 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-13 10:21:16 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-13 10:21:16 -0400
+
+
+Started GET "/assets/skrollr.ie.js?body=1" for 127.0.0.1 at 2014-05-13 10:21:16 -0400
+
+
+Started GET "/assets/skrollr.menu.js?body=1" for 127.0.0.1 at 2014-05-13 10:21:16 -0400
+
+
+Started GET "/assets/wow.js?body=1" for 127.0.0.1 at 2014-05-13 10:21:16 -0400
+
+
+Started GET "/assets/landing_page.js?body=1" for 127.0.0.1 at 2014-05-13 10:21:16 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-13 10:21:16 -0400
+
+
+Started GET "/assets/fontawesome-webfont.woff" for 127.0.0.1 at 2014-05-13 10:21:16 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-05-13 10:21:17 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 10:21:38 -0400
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 11ms (Views: 10.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-13 10:21:39 -0400
+
+
+Started GET "/assets/normalize-rails.css?body=1" for 127.0.0.1 at 2014-05-13 10:21:39 -0400
+
+
+Started GET "/assets/landing_page.css?body=1" for 127.0.0.1 at 2014-05-13 10:21:39 -0400
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-05-13 10:21:39 -0400
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-05-13 10:21:39 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-13 10:21:39 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-13 10:21:39 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-13 10:21:39 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-13 10:21:39 -0400
+
+
+Started GET "/assets/skrollr.ie.js?body=1" for 127.0.0.1 at 2014-05-13 10:21:39 -0400
+
+
+Started GET "/assets/skrollr.menu.js?body=1" for 127.0.0.1 at 2014-05-13 10:21:39 -0400
+
+
+Started GET "/assets/landing_page.js?body=1" for 127.0.0.1 at 2014-05-13 10:21:39 -0400
+
+
+Started GET "/assets/wow.js?body=1" for 127.0.0.1 at 2014-05-13 10:21:39 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-13 10:21:39 -0400
+
+
+Started GET "/assets/fontawesome-webfont.woff" for 127.0.0.1 at 2014-05-13 10:21:39 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-05-13 10:21:39 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 10:21:57 -0400
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 8ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-13 10:21:57 -0400
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-05-13 10:21:57 -0400
+
+
+Started GET "/assets/normalize-rails.css?body=1" for 127.0.0.1 at 2014-05-13 10:21:57 -0400
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-05-13 10:21:57 -0400
+
+
+Started GET "/assets/landing_page.css?body=1" for 127.0.0.1 at 2014-05-13 10:21:57 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-13 10:21:57 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-13 10:21:57 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-13 10:21:57 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-13 10:21:57 -0400
+
+
+Started GET "/assets/skrollr.ie.js?body=1" for 127.0.0.1 at 2014-05-13 10:21:57 -0400
+
+
+Started GET "/assets/skrollr.menu.js?body=1" for 127.0.0.1 at 2014-05-13 10:21:57 -0400
+
+
+Started GET "/assets/wow.js?body=1" for 127.0.0.1 at 2014-05-13 10:21:57 -0400
+
+
+Started GET "/assets/landing_page.js?body=1" for 127.0.0.1 at 2014-05-13 10:21:57 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-13 10:21:57 -0400
+
+
+Started GET "/assets/fontawesome-webfont.woff" for 127.0.0.1 at 2014-05-13 10:21:58 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-05-13 10:21:58 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 10:22:01 -0400
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 7ms (Views: 6.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-13 10:22:02 -0400
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-05-13 10:22:02 -0400
+
+
+Started GET "/assets/normalize-rails.css?body=1" for 127.0.0.1 at 2014-05-13 10:22:02 -0400
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-05-13 10:22:02 -0400
+
+
+Started GET "/assets/landing_page.css?body=1" for 127.0.0.1 at 2014-05-13 10:22:02 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-13 10:22:02 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-13 10:22:02 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-13 10:22:02 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-13 10:22:02 -0400
+
+
+Started GET "/assets/skrollr.menu.js?body=1" for 127.0.0.1 at 2014-05-13 10:22:02 -0400
+
+
+Started GET "/assets/skrollr.ie.js?body=1" for 127.0.0.1 at 2014-05-13 10:22:02 -0400
+
+
+Started GET "/assets/wow.js?body=1" for 127.0.0.1 at 2014-05-13 10:22:02 -0400
+
+
+Started GET "/assets/landing_page.js?body=1" for 127.0.0.1 at 2014-05-13 10:22:02 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-13 10:22:02 -0400
+
+
+Started GET "/assets/fontawesome-webfont.woff" for 127.0.0.1 at 2014-05-13 10:22:02 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-05-13 10:22:02 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 10:22:34 -0400
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-13 10:22:34 -0400
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-05-13 10:22:34 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-13 10:22:34 -0400
+
+
+Started GET "/assets/normalize-rails.css?body=1" for 127.0.0.1 at 2014-05-13 10:22:34 -0400
+
+
+Started GET "/assets/landing_page.css?body=1" for 127.0.0.1 at 2014-05-13 10:22:34 -0400
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-05-13 10:22:34 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-13 10:22:34 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-13 10:22:34 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-13 10:22:34 -0400
+
+
+Started GET "/assets/skrollr.ie.js?body=1" for 127.0.0.1 at 2014-05-13 10:22:34 -0400
+
+
+Started GET "/assets/wow.js?body=1" for 127.0.0.1 at 2014-05-13 10:22:34 -0400
+
+
+Started GET "/assets/skrollr.menu.js?body=1" for 127.0.0.1 at 2014-05-13 10:22:34 -0400
+
+
+Started GET "/assets/landing_page.js?body=1" for 127.0.0.1 at 2014-05-13 10:22:34 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-13 10:22:34 -0400
+
+
+Started GET "/assets/fontawesome-webfont.woff" for 127.0.0.1 at 2014-05-13 10:22:35 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-05-13 10:22:35 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 10:24:17 -0400
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 7ms (Views: 6.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-13 10:24:17 -0400
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-05-13 10:24:17 -0400
+
+
+Started GET "/assets/normalize-rails.css?body=1" for 127.0.0.1 at 2014-05-13 10:24:17 -0400
+
+
+Started GET "/assets/landing_page.css?body=1" for 127.0.0.1 at 2014-05-13 10:24:17 -0400
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-05-13 10:24:17 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-13 10:24:17 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-13 10:24:17 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-13 10:24:17 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-13 10:24:17 -0400
+
+
+Started GET "/assets/skrollr.ie.js?body=1" for 127.0.0.1 at 2014-05-13 10:24:17 -0400
+
+
+Started GET "/assets/skrollr.menu.js?body=1" for 127.0.0.1 at 2014-05-13 10:24:17 -0400
+
+
+Started GET "/assets/wow.js?body=1" for 127.0.0.1 at 2014-05-13 10:24:17 -0400
+
+
+Started GET "/assets/landing_page.js?body=1" for 127.0.0.1 at 2014-05-13 10:24:17 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-13 10:24:17 -0400
+
+
+Started GET "/assets/fontawesome-webfont.woff" for 127.0.0.1 at 2014-05-13 10:24:17 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-05-13 10:24:17 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 10:24:23 -0400
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 9ms (Views: 7.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-13 10:24:23 -0400
+
+
+Started GET "/assets/normalize-rails.css?body=1" for 127.0.0.1 at 2014-05-13 10:24:23 -0400
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-05-13 10:24:23 -0400
+
+
+Started GET "/assets/landing_page.css?body=1" for 127.0.0.1 at 2014-05-13 10:24:23 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-13 10:24:23 -0400
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-05-13 10:24:23 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-13 10:24:23 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-13 10:24:23 -0400
+
+
+Started GET "/assets/skrollr.ie.js?body=1" for 127.0.0.1 at 2014-05-13 10:24:23 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-13 10:24:23 -0400
+
+
+Started GET "/assets/skrollr.menu.js?body=1" for 127.0.0.1 at 2014-05-13 10:24:23 -0400
+
+
+Started GET "/assets/wow.js?body=1" for 127.0.0.1 at 2014-05-13 10:24:23 -0400
+
+
+Started GET "/assets/landing_page.js?body=1" for 127.0.0.1 at 2014-05-13 10:24:23 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-13 10:24:23 -0400
+
+
+Started GET "/assets/fontawesome-webfont.woff" for 127.0.0.1 at 2014-05-13 10:24:23 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-05-13 10:24:23 -0400
