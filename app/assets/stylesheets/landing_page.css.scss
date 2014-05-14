@@ -272,6 +272,13 @@ p.skill-text {
   .profile-pic-inner {
     margin-left: 25%;
   }
+  .footer-image {
+    margin-top: 20px;
+  }
+
+  .social-icons {
+    margin-top: -10%;
+  }
 }
 
 @media (max-width: 548px) {
@@ -292,6 +299,12 @@ p.skill-text {
       bottom: -10%;
       width: 30%;
       left: 37%;
+    }
+  }
+  .footer {
+    height: 200px;
+    .social-icons {
+      margin-top: 0;
     }
   }
 }
