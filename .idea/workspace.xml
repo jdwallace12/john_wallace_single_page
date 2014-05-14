@@ -23,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/landing_page/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.403171" vertical-offset="2653" max-vertical-offset="3740">
-              <caret line="177" column="86" selection-start-line="177" selection-start-column="86" selection-end-line="177" selection-end-column="86" />
+            <state vertical-scroll-proportion="-3.6455696" vertical-offset="2245" max-vertical-offset="3740">
+              <caret line="149" column="41" selection-start-line="149" selection-start-column="41" selection-end-line="149" selection-end-column="41" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#blockquote#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#!!top" expanded="true" />
@@ -48,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="landing_page.css.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="landing_page.css.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/landing_page.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-39.375" vertical-offset="1740" max-vertical-offset="4740">
-              <caret line="179" column="75" selection-start-line="179" selection-start-column="22" selection-end-line="179" selection-end-column="22" />
+            <state vertical-scroll-proportion="1.4392325" vertical-offset="795" max-vertical-offset="4740">
+              <caret line="143" column="45" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -75,8 +75,8 @@
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/landing_page.css.scss" />
         <option value="$PROJECT_DIR$/app/views/landing_page/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/landing_page.css.scss" />
       </list>
     </option>
   </component>
@@ -645,24 +645,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/landing_page.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-39.375" vertical-offset="1740" max-vertical-offset="4740">
-          <caret line="179" column="75" selection-start-line="179" selection-start-column="22" selection-end-line="179" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/landing_page/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.403171" vertical-offset="2653" max-vertical-offset="3740">
-          <caret line="177" column="86" selection-start-line="177" selection-start-column="86" selection-end-line="177" selection-end-column="86" />
+        <state vertical-scroll-proportion="-3.6455696" vertical-offset="2245" max-vertical-offset="3740">
+          <caret line="149" column="41" selection-start-line="149" selection-start-column="41" selection-end-line="149" selection-end-column="41" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#blockquote#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#a#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#a#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/landing_page.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.4392325" vertical-offset="795" max-vertical-offset="4740">
+          <caret line="143" column="45" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
