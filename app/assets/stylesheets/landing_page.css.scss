@@ -63,6 +63,7 @@ p {
 .my-objective-wrap {
   background: #fbfaf5;
 }
+
 .my-objective {
   padding-top: 6%;
   padding-bottom: 8%;
@@ -180,7 +181,7 @@ p.skill-text {
   background: #16a085;
   height: 130px;
   padding: 2% 0%;
-  border-top: 15px solid #1abc9c !important;  //need to over ride bootstrap styling for sticky nav
+  border-top: 15px solid #1abc9c !important; //need to over ride bootstrap styling for sticky nav
   h5 {
     margin-top: -2%;
     color: #fbfaf5;
@@ -195,15 +196,21 @@ p.skill-text {
   .contact-info-wrap {
     display: inline-block;
     padding-left: 5%;
+    font-size: 2em;
+    line-height: 1;
+    h5 {
+      font-size: 36px;
+    }
   }
   .social-icons {
+    font-size: 2em;
     a {
       transition: color 0.5s ease;
       color: #bdc3c7;
     }
     a:hover {
       text-decoration: none;
-      color:#ecf0f1;
+      color: #ecf0f1;
     }
   }
 }
@@ -254,7 +261,7 @@ p.skill-text {
   }
 }
 
-@media (max-width: 981px) {
+@media (max-width: 995px) {
   .plus-sign {
     display: none;
   }
@@ -278,11 +285,8 @@ p.skill-text {
 
   .social-icons {
     margin-top: -10%;
+    font-size: .8em !important;
   }
-}
-
-@media (max-width: 767px) {
-
 }
 
 @media (max-width: 548px) {
