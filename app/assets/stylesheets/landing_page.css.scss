@@ -178,15 +178,11 @@ p.skill-text {
 ///////////////////////////////////////footer
 
 .footer {
-  background: /* top, transparent red */ linear-gradient(
-                  rgba(62, 62, 62, 0.7),
-                  rgba(50, 50, 50, 0.0)
-  ),
-    /* bottom, image */ url(../waterfall.gif);
-
+  background-image: url(../ocean.gif);
+  background-position: 0px -700px;
+  background-size: cover;
   height: 130px;
   padding: 2% 0%;
-  border-top: 15px solid #16a085 !important; //need to over ride bootstrap styling for sticky nav
 
   h5 {
     margin-top: -2%;
