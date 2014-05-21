@@ -207,9 +207,9 @@
 </div>
 </div><!-- end skrollr body-->
 
-
-<script>
-    var s = skrollr.init();      // instantiate skrollr
-    new WOW().init();            // instantiate wow.js
-</script>
-
+<% if !is_mobile_or_tablet %>
+    <script>
+        var s = skrollr.init();      // instantiate skrollr
+        new WOW().init();            // instantiate wow.js
+    </script>
+<% end %>
