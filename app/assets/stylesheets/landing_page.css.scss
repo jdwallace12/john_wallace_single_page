@@ -233,6 +233,18 @@ p.skill-text {
   top: -60px
 }
 
+////////////////////////////////////////proficiencies
+.fadeout {
+  background: rgba(0, 0, 0, 0.40);
+  height: 200px;
+}
+
+.proficiencies {
+  h1 {
+    color: #fbfaf5;
+  }
+}
+
 ///////////////////////////////////////media queries
 
 @media (max-width: 1600px) {
