@@ -206,7 +206,7 @@ p.skill-text {
     font-size: 16px;
     line-height: 1.5;
     h5 {
-      font-size: 16px;
+      font-size: 14px;
     }
   }
   .social-icons {
@@ -235,13 +235,16 @@ p.skill-text {
 
 ////////////////////////////////////////proficiencies
 .fadeout {
-  background: rgba(0, 0, 0, 0.40);
+  background: rgba(0, 0, 0, 0.25);
   height: 200px;
 }
 
 .proficiencies {
-  h1 {
-    color: #fbfaf5;
+  h1, li {
+    color: #f5f5f5;
+  }
+  li {
+    font-size: 16px;
   }
 }
 
