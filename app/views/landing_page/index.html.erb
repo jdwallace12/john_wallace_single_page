@@ -1,4 +1,4 @@
-<div id="skrollr-body"> <!--to make skrollr function on mobile -->
+
 <!--hero section begins-->
 <div class="container-fluid">
   <div class="row">
@@ -148,7 +148,6 @@
 </div>
 
 <!--good fit area-->
-
 <div class="container-fluid good-fit-wrap">
   <div class="container good-fit">
     <div class="row">
@@ -176,6 +175,7 @@
     </div>
   </div>
 </div>
+<% if !is_mobile_or_tablet %>
 <!--footer area-->
 <div class="container-fluid footer navbar-fixed-bottom visible-lg visible-md" data-1000="display: none" data-1800="height:2%; display:block; opacity:0;" data-2700="height:100%; opacity:1;">  <!--have nav appear towards the bottom -->
   <div class="row">
@@ -185,8 +185,7 @@
   </div>
 
   <!--scrolling clouds under contact info-->
-  <% if !is_mobile_or_tablet %>
-      <div class="row visible-desktop">
+      <div class="row">
         <div class="cloud">
           <img style="margin-top:0px;" data-2000="margin-left:900px;" data-6000="margin-left:-560px;" src="../cloud_large.png"/>
         </div>
@@ -261,9 +260,8 @@
         </div>
       </div>
   <% end %>
-</div>
-<!--/footer-->
-</div><!-- end skrollr body-->
+</div><!--/footer-->
+
 
 <% if !is_mobile_or_tablet %>
     <script>
