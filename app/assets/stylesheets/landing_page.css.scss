@@ -103,13 +103,12 @@ p {
 }
 
 .skills-area {
-  text-align: center;
+  text-align: left;
   padding: 0% 0% 15% 0%;
 }
 
 .skills-title {
   text-align: center;
-
   margin: -12% 0% 4% 0%;
   h1 {
     color: #fbfaf5;
@@ -128,19 +127,21 @@ p {
   color: #fbfaf5;
   padding: 20px;
   margin-bottom: 30%;
+  text-align: center;
 }
 
-//for some reason can't select p in parent div, so add a class
 p.skill-text {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.5em;
-  word-spacing: .2em;
+  text-align: left;
+  text-indent: 1.5em;
+
 }
 
 ///////////////////////////////////////why I am a good fit
 
 .good-fit-wrap {
-  background: #fbfaf5;
+  background: #ffffff;
   padding-bottom: 10%;
 
 }
@@ -178,7 +179,7 @@ p.skill-text {
 ///////////////////////////////////////footer
 
 .footer {
-  background-image: url(../lake.gif);
+  background-image: url(../waterfall.gif);
   background-position: 0px 0px;
   background-size: cover;
   height: 130px;
@@ -232,7 +233,6 @@ p.skill-text {
 
 ////////////////////////////////////////proficiencies
 .fadeout {
-  background: rgba(0, 0, 0, 0.25);
   height: 200px;
 }
 
