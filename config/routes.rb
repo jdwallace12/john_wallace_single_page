@@ -1,4 +1,5 @@
 JohnWallaceSinglePage::Application.routes.draw do
+  resources :contact_forms
   get 'landing_page/index'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

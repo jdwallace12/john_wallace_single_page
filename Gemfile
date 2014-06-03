@@ -17,6 +17,10 @@ gem 'animate-rails'  #fun animations
 
 gem 'font-awesome-rails'  #icons
 
+gem 'mail_form' #contact form
+
+gem 'simple_form' #for contact form
+
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 
