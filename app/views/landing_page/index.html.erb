@@ -27,7 +27,7 @@
         <div class="row">
           <div class="wow slideInLeft col-md-12 profile-pic-area" data-wow-delay=".5s">
             <div class="profile-pic-inner" data-0="opacity:1;" data-10="opacity:0;">
-              <h2>John Wallace</h2>
+              <h2 id="main-heading">John Wallace</h2>
               <h4>Outdoor Enthusiast & Tinkerer</h4>
             </div>
           </div>
@@ -255,10 +255,13 @@
     var waterfall = $('#waterfall')[0]
     $('.footer').on('mouseenter', function () {
       waterfall.play();
+      waterfall.volume = .2;
     });
 
     $('.footer').on('mouseleave', function (){
         waterfall.pause();
     });
+
+    $('#main-heading').circleType({radius: 384});
 </script>
 
