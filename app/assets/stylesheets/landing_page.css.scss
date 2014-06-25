@@ -243,6 +243,15 @@ p.skill-text {
   }
 }
 
+.back-to-top {
+  color:rgba(255, 255, 255, 0.55);
+  margin-left:15%;
+  :hover {
+    transition: color 0.8s ease;
+    color: #ffffff;
+  }
+}
+
 ///////////////////////////////////////media queries
 
 @media (max-width: 1600px) {

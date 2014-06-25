@@ -17,6 +17,7 @@ gem 'animate-rails'  #fun animations
 
 gem 'font-awesome-rails'  #icons
 
+
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 
