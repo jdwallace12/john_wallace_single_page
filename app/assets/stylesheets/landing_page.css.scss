@@ -117,9 +117,8 @@ p {
 
 .skills-inner-wrap {
   :hover {
-    :hover {
-      background: #2980b9;
-    }
+    transition: background .5s ease;
+    background: #2980b9;
   }
 }
 

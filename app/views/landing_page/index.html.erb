@@ -246,7 +246,7 @@
 
 <% if !is_mobile_or_tablet %>
     <script>
-        var s = skrollr.init();      // instantiate skrollr
+        var s = skrollr.init([smoothScrolling = true]);      // instantiate skrollr
         new WOW().init();            // instantiate wow.js
     </script>
 <% end %>
@@ -254,12 +254,14 @@
 <script>
     var waterfall = $('#waterfall')[0]
     $('.footer').on('mouseenter', function () {
-      waterfall.play();
-      waterfall.volume = .2;
+        waterfall.play();
+        waterfall.volume = .3;
     });
 
-    $('.footer').on('mouseleave', function (){
+    $('.footer').on('mouseleave', function () {
         waterfall.pause();
     });
+
+
 </script>
 
