@@ -115,7 +115,6 @@ p {
   }
 }
 
-
 .skills-inner {
   color: #fbfaf5;
   padding: 20px;
@@ -238,8 +237,8 @@ p.skill-text {
 }
 
 .back-to-top {
-  color:rgba(255, 255, 255, 0.55);
-  margin-left:15%;
+  color: rgba(255, 255, 255, 0.55);
+  margin-left: 15%;
   :hover {
     transition: color 0.8s ease;
     color: #ffffff;
@@ -290,6 +289,16 @@ p.skill-text {
 }
 
 @media (max-width: 995px) {
+  p {
+    font-size: 12px !important;
+  }
+  .hero {
+    background-image: url(../bowman_lake_mobile.jpg);
+    background-repeat: none;
+  }
+  .my-objective h1 {
+    margin-top: 30px !important;
+  }
   .plus-sign {
     display: none;
   }
