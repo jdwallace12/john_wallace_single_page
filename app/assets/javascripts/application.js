@@ -17,6 +17,5 @@
 //= require skrollr.ie
 //= require skrollr.menu
 //= require wow
-//= require circle_text
 //= require_tree .
 
