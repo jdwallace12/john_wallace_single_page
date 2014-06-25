@@ -73,8 +73,8 @@
       <file leaf-file-name="landing_page.css.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/landing_page.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.69848484" vertical-offset="1219" max-vertical-offset="5370">
-              <caret line="112" column="17" selection-start-line="112" selection-start-column="6" selection-end-line="112" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.9257576" vertical-offset="1324" max-vertical-offset="5385">
+              <caret line="129" column="15" selection-start-line="129" selection-start-column="15" selection-end-line="129" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -940,8 +940,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/landing_page.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.69848484" vertical-offset="1219" max-vertical-offset="5370">
-          <caret line="112" column="17" selection-start-line="112" selection-start-column="6" selection-end-line="112" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.9257576" vertical-offset="1324" max-vertical-offset="5385">
+          <caret line="129" column="15" selection-start-line="129" selection-start-column="15" selection-end-line="129" selection-end-column="15" />
           <folding />
         </state>
       </provider>
