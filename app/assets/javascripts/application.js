@@ -17,6 +17,7 @@
 //= require skrollr.ie
 //= require skrollr.menu
 //= require wow
+//= require wallpaper
 //= require_tree .
 
 
