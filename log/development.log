@@ -120290,3 +120290,67 @@ Started GET "/assets/fontawesome-webfont.woff" for 127.0.0.1 at 2014-06-30 14:16
 
 
 Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-06-30 14:16:14 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-30 14:21:10 -0400
+Processing by LandingPageController#index as HTML
+  Rendered landing_page/_proficiencies_mobile.html.erb (0.1ms)
+  Rendered landing_page/_proficiencies.html.erb (0.1ms)
+  Rendered landing_page/_svg_john.html.erb (0.5ms)
+  Rendered landing_page/_svg_wallace.html.erb (0.6ms)
+  Rendered landing_page/index.html.erb within layouts/application (8.4ms)
+Completed 200 OK in 19ms (Views: 18.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-30 14:21:10 -0400
+
+
+Started GET "/assets/normalize-rails.css?body=1" for 127.0.0.1 at 2014-06-30 14:21:10 -0400
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-06-30 14:21:10 -0400
+
+
+Started GET "/assets/landing_page.css?body=1" for 127.0.0.1 at 2014-06-30 14:21:10 -0400
+
+
+Started GET "/assets/wallpaper.css?body=1" for 127.0.0.1 at 2014-06-30 14:21:10 -0400
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-06-30 14:21:10 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-30 14:21:10 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-30 14:21:10 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-30 14:21:10 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-06-30 14:21:10 -0400
+
+
+Started GET "/assets/skrollr.ie.js?body=1" for 127.0.0.1 at 2014-06-30 14:21:10 -0400
+
+
+Started GET "/assets/skrollr.menu.js?body=1" for 127.0.0.1 at 2014-06-30 14:21:10 -0400
+
+
+Started GET "/assets/wow.js?body=1" for 127.0.0.1 at 2014-06-30 14:21:10 -0400
+
+
+Started GET "/assets/wallpaper.js?body=1" for 127.0.0.1 at 2014-06-30 14:21:10 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-30 14:21:10 -0400
+
+
+Started GET "/assets/landing_page.js?body=1" for 127.0.0.1 at 2014-06-30 14:21:10 -0400
+
+
+Started GET "/assets/fontawesome-webfont.woff" for 127.0.0.1 at 2014-06-30 14:21:10 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-06-30 14:21:10 -0400
